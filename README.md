@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hariharan2604
 - 👀 I’m interested in learning new things and implement in everyday life
 - 🌱 I’m currently pursuing Btech in IT at VIT
-- 💞️ I’m looking to collaborate on quantum computing
+- 💞️ I’m looking to collaborate on programming.
 - 📫 reach me @hariharan_2604(instagram)
 
 <!---
