@@ -42,8 +42,7 @@
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=flat-square&logo=express&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-dd1b16.svg?style=flat-square&logo=angular&logoColor=white"></a>
-  <a href="#"><img alt="flask" src="https://img.shields.io/badge/flask-808080.svg?logo=flask"></a>
-              
+  <a href="#"><img alt="flask" src="https://img.shields.io/badge/flask-808080.svg?style=flat-square&logo=flask"></a>             
  </p>
  <h3>🗄️ Databases and Cloud Hosting</h3>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white"></a>
