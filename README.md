@@ -15,14 +15,14 @@
 <hr>
 </div>
 <div>
-- 🔭 I’m currently working on a Online Food Delivery System named Foodys<br>
-- 🌱 I’m currently learning Web Development<br>
+- 🔭 Final Year Student at Vellore Institute of Technology<br>
+- 🌱 Full Stack Dev<br>
 - 😄 Pronouns: He/Him
 </div>
 <hr>
 <div>
 <!-- Favorite Tools -->
-## 🛠️ My Favorite Tools
+🛠️ My Favorite Tools
  <h3>👨‍💻 Programming Languages</h3>
  <p>
   <a href="#"><img alt="C" src="https://img.shields.io/badge/-C-283593?style=flat-square&logo=c&logoColor=white"></a>
@@ -39,11 +39,8 @@
  <h3>🧰 Frameworks and Libraries</h3>
  <p>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"></a>
-  <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?style=flat-square&logo=material-design&logoColor=white"></a>
-  <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=flat-square&logo=express&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-dd1b16.svg?style=flat-square&logo=angular&logoColor=white"></a>
  </p>
  <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -56,15 +53,9 @@
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-000000.svg?style=flat-square&logo=gitlab&logoColor=FC6D27"></a>
-  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?style=flat-square&logo=google%20sheets&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white"></a>
-  <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?style=flat-square&logo=obs-studio&logoColor=white"></a>
-  <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"></a>
   <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white"></a>
-  <a href="#"><img alt="Clodflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"></a>
  </p>
 
 </div>
