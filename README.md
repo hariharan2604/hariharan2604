@@ -2,15 +2,17 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/hariharan-jayachandran-008931221/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Hariharan_2604">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-  <hr>
+<!-- Social Media -->
+  <div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/hariharan-jayachandran-008931221/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <a href="https://twitter.com/Hariharan_2604">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+    </a>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=hariharan2604&style=for-the-badge&color=red" alt="Profile Views"></a>
+  </div>
+<hr>
 </div>
 <div>
 - 🔭 I’m currently working on a Online Food Delivery System named Foodys<br>
@@ -68,8 +70,7 @@
 </div>
 <hr>
  <!-- Github Activities -->
- ## 📈 Github Stats
- <h3>🔥 Streak Stats</h3>
+ <h3>🔥 Github Streak Stats</h3>
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
      <p>
          <img src="https://streak-stats.demolab.com?user=hariharan2604&theme=monokai-metallian&mode=weekly&fire=DD2727">
@@ -77,14 +78,17 @@
  </a>
 
   <h3>💻 GitHub Profile Stats</h3>
+ <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="SuriyaDisha's Github Stats" src="https://denvercoder1-github-readme-stats.versel.app/api/?username=hariharan2604&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
+     <img alt="SuriyaDisha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hariharan2604&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+
+   <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="SuriyaDisha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan2604&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
  </a>
+ </div>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-     <img alt="SuriyaDisha's Activity Graph" src="https://github-readme-activity-graph.versel.app/graph/?username=hariharan2604&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+     <img alt="SuriyaDisha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan2604&theme=github-compact">
  </a>
 
 
