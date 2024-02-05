@@ -34,7 +34,7 @@
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=yellow"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"></a>
-   <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=flat-square&logo=java&logoColor=white"></a>
+   <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-025E8C.svg?style=flat-square&logo=java&logoColor=white"></a>
  </p>
  <h3>🧰 Frameworks and Libraries</h3>
  <p>
